@@ -1,0 +1,2 @@
+If GCMC code or machine learning potentials are used, please cite the following paper:
+  Yang, C.; Fu, X.; Luan, D.; Xiao, J. Towards Rational Design of Confined Catalysis in Carbon Nanotube by Machine Learning and Grand Canonical Monte Carlo Simulations. Angew. Chem. Int. Ed. 2025, e202421552. https://doi.org/10.1002/anie.202421552.
